@@ -39,7 +39,7 @@ Thanks for taking the time to check out my profile! Feel free to reach out if yo
 
 📫 How to Reach Me:
 
-- You can reach me via email **tasev.nikola@proton.me**
+<!-- - You can reach me via email **tasev.nikola@proton.me** -->
 
 -   <p align="left">
     My LinkedIn account
