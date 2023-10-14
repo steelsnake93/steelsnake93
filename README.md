@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, there</h1>
+<!-- <h1 align="center">Hi 👋, there</h1>
 <h3 align="center">I am a Front End Developer,</h3>
 <p align="center">
  with 3 years of experience in the tech industry. I specialize in front-end technologies, including HTML, CSS, and JavaScript.
@@ -37,15 +37,15 @@ Thanks for taking the time to check out my profile! Feel free to reach out if yo
 
 ---
 
-📫 How to Reach Me:
+<!-- 📫 How to Reach Me:-->
 
 <!-- - You can reach me via email **tasev.nikola@proton.me** -->
 
--   <p align="left">
+<!--    <p align="left">
     My LinkedIn account
     <a href="https://linkedin.com/in/nikola-tasev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikola-tasev" height="30" width="40" /></a>
     </p>
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steelsnake93" alt="steelsnake93" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steelsnake93" alt="steelsnake93" /></a> </p> -->
